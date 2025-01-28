@@ -1,19 +1,19 @@
 city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id,scans
 Accra,Accra,5.55,-0.2,Ghana,GH,GHA,Greater Accra,primary,2388000.0,1288299415.0,360
-Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,ET,ETH,ƒÄdƒ´s ƒÄbeba,primary,3041002.0,1231824991.0,257
+Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,ET,ETH,ƒÄdƒ´s ƒÄbeba,primary,3041002.0,1231824991.0,401
 Blantyre,Blantyre,-15.7861,35.0058,Malawi,MW,MWI,Blantyre,admin,1895973.0,1454145012.0,353
-Bonn,Bonn,50.44,7.6,Germany,,DEU,,,327258.0,,156
+Bonn,Bonn,50.44,7.6,Germany,,DEU,,,327258.0,,361
 Cape Town,Cape Town,-33.9253,18.4239,South Africa,ZA,ZAF,Western Cape,primary,433688.0,1710680650.0,967
-Dhaka,Dhaka,23.7639,90.3889,Bangladesh,BD,BGD,Dhaka,primary,18627000.0,1050529279.0,151
+Dhaka,Dhaka,23.7639,90.3889,Bangladesh,BD,BGD,Dhaka,primary,18627000.0,1050529279.0,196
 Gaborone,Gaborone,-24.6581,25.9122,Botswana,BW,BWA,Gaborone,primary,231626.0,1072756768.0,38
-Harare,Harare,-17.8292,31.0522,Zimbabwe,ZW,ZWE,Harare,primary,2150000.0,1716196799.0,1
+Harare,Harare,-17.8292,31.0522,Zimbabwe,ZW,ZWE,Harare,primary,2150000.0,1716196799.0,54
 Kampala,Kampala,0.3136,32.5811,Uganda,UG,UGA,Kampala,primary,1680600.0,1800406299.0,314
-Karachi,Karachi,24.86,67.01,Pakistan,PK,PAK,Sindh,admin,15738000.0,1586129469.0,195
-Kintampo,Kintampo,8.0522,-1.7,Ghana,GH,GHA,Bono East,,111000.0,1288911745.0,144
-Kisumu,Kisumu,-0.0833,34.7667,Kenya,KE,KEN,Kisumu,admin,409928.0,1404511920.0,104
+Karachi,Karachi,24.86,67.01,Pakistan,PK,PAK,Sindh,admin,15738000.0,1586129469.0,274
+Kintampo,Kintampo,8.0522,-1.7,Ghana,GH,GHA,Bono East,,111000.0,1288911745.0,271
+Kisumu,Kisumu,-0.0833,34.7667,Kenya,KE,KEN,Kisumu,admin,409928.0,1404511920.0,256
 London,London,51.5072,-0.1275,United Kingdom,GB,GBR,"London, City of",primary,11262000.0,1826645935.0,236
 Lucknow,Lucknow,26.85,80.95,India,IN,IND,Uttar Pradesh,admin,3382000.0,1356891790.0,0
-Lusaka,Lusaka,-15.4167,28.2833,Zambia,ZM,ZMB,Lusaka,primary,2467563.0,1894157390.0,171
+Lusaka,Lusaka,-15.4167,28.2833,Zambia,ZM,ZMB,Lusaka,primary,2467563.0,1894157390.0,306
 Nairobi,Nairobi,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,primary,5545000.0,1404000661.0,0
 Pretoria,Pretoria,-25.7461,28.1881,South Africa,ZA,ZAF,Gauteng,primary,741651.0,1710176249.0,0
 Vellore,Vellore,12.9,79.13,India,,,,,687981.0,,0

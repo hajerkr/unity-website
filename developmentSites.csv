@@ -1,8 +1,8 @@
-﻿city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id,scans,pi
-Leiden,Leiden,52.16,4.49,Netherlands,,,,,124093,,T1 mapping,Bea
-London,London,51.5072,-0.2,United Kingdom,GB,GBR,"London, City of",primary,11262000,1826645935,Data harmonisation,Steve Williams
-Lund,Lund,55.42,13.11,Sweden,,,,,94393,,QA,Emil Ljunberg
-Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2264823,1124825478,Physics development,Shannon Kolind
-Los Angelas,,34.05,-118.15,US,,,,,3898747,,"QC, Image processing",Natasha Lepore
-Melbourne,Melbourne,-37.8,144.9,Austraila,,,,,5000000,,Image processing,Marc Seal
-Wisconsin,Wisconsin,42.3,-86.46,US,,,,,,,Fetal,Doug Dean III
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id,function,pi,scans
+Leiden,Leiden,52.16,4.49,Netherlands,,,,,124093.0,,T1 mapping,Bea,1
+London,London,51.5072,-0.2,United Kingdom,GB,GBR,"London, City of",primary,11262000.0,1826645935.0,Data harmonisation,Steve Williams,236
+Lund,Lund,55.42,13.11,Sweden,,,,,94393.0,,QA,Emil Ljunberg,0
+Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2264823.0,1124825478.0,Physics development,Shannon Kolind,3
+Los Angeles,,34.05,-118.15,US,,,,,3898747.0,,"QC, Image processing",Natasha Lepore,0
+Melbourne,Melbourne,-37.8,144.9,Austraila,,,,,5000000.0,,Image processing,Marc Seal,0
+Wisconsin,Wisconsin,42.3,-86.46,US,,,,,,,Fetal,Doug Dean III,0
